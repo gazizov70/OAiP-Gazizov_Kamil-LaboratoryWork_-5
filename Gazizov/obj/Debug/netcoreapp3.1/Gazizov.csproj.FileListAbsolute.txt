@@ -1,0 +1,14 @@
+C:\Users\dit_07_221\Desktop\папка\Gazizov\Gazizov\bin\Debug\netcoreapp3.1\Gazizov.exe
+C:\Users\dit_07_221\Desktop\папка\Gazizov\Gazizov\bin\Debug\netcoreapp3.1\Gazizov.deps.json
+C:\Users\dit_07_221\Desktop\папка\Gazizov\Gazizov\bin\Debug\netcoreapp3.1\Gazizov.runtimeconfig.json
+C:\Users\dit_07_221\Desktop\папка\Gazizov\Gazizov\bin\Debug\netcoreapp3.1\Gazizov.runtimeconfig.dev.json
+C:\Users\dit_07_221\Desktop\папка\Gazizov\Gazizov\bin\Debug\netcoreapp3.1\Gazizov.dll
+C:\Users\dit_07_221\Desktop\папка\Gazizov\Gazizov\bin\Debug\netcoreapp3.1\Gazizov.pdb
+C:\Users\dit_07_221\Desktop\папка\Gazizov\Gazizov\obj\Debug\netcoreapp3.1\Gazizov.csproj.AssemblyReference.cache
+C:\Users\dit_07_221\Desktop\папка\Gazizov\Gazizov\obj\Debug\netcoreapp3.1\Gazizov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dit_07_221\Desktop\папка\Gazizov\Gazizov\obj\Debug\netcoreapp3.1\Gazizov.AssemblyInfoInputs.cache
+C:\Users\dit_07_221\Desktop\папка\Gazizov\Gazizov\obj\Debug\netcoreapp3.1\Gazizov.AssemblyInfo.cs
+C:\Users\dit_07_221\Desktop\папка\Gazizov\Gazizov\obj\Debug\netcoreapp3.1\Gazizov.csproj.CoreCompileInputs.cache
+C:\Users\dit_07_221\Desktop\папка\Gazizov\Gazizov\obj\Debug\netcoreapp3.1\Gazizov.dll
+C:\Users\dit_07_221\Desktop\папка\Gazizov\Gazizov\obj\Debug\netcoreapp3.1\Gazizov.pdb
+C:\Users\dit_07_221\Desktop\папка\Gazizov\Gazizov\obj\Debug\netcoreapp3.1\Gazizov.genruntimeconfig.cache
